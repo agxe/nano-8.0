@@ -1,3 +1,21 @@
+Compile and install nano
+
+Windows (Cygwin)
+
+    Install dependencies for cygwin
+       gcc-core
+       automake
+       make
+       libncurses-devel
+
+    Get this nano source from Github, and then:
+        ./configure
+        make
+        make install
+
+
+--------------------------------------------------------
+
 
           GNU nano -- a simple editor, inspired by Pico
 
