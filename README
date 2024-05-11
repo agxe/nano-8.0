@@ -13,6 +13,9 @@ Windows (Cygwin)
         make
         make install
 
+Windows (Pre-built binary)
+
+    Download the pre-built binaries from https://files.lhmouse.com/nano-win/
 
 --------------------------------------------------------
 
